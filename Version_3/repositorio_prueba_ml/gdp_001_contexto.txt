@@ -1,0 +1,6 @@
+Codigo Proyecto: gdp_001
+Nombre Proyecto: BioData
+Contexto de Negocio:
+
+BioData es una organización dedicada al desarrollo de modelo de analítica avanzada enfocados en solucionar situaciones relacionadas al medio ambiente y a insvestigacioness científicas en biología. Recientemente se ha encontrado una especie de flor conocida como "Iris" de la cual se ha identificado un grupo de 4 especies. Basado en los datos de tamaños de petalos y sepalos, se desea indagar si existe un patrón clasificatorio para llegar a predecir la especie basado en estos patrones de tamaño.
+
